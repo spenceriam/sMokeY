@@ -36,7 +36,7 @@ _Create a basic Electron application called 'sMokeY' with CodeMirror 6 text edit
 5. Start the todo.md and then vibe on:\
 _Based on this sMokeY text editor project, create a detailed todo.md file that breaks down all the remaining features into small, actionable chunks. Organize by priority and dependencies. Each task should be specific enough for AI to implement (like 'Add auto-save with 3-second interval' rather than 'Add auto-save'). Reference the PRD requirements for the complete feature list._
 
-Suggestions:
+## Suggestions:
 Create a rule file or memory:
 - Manage the project using the todo and create a changelog from [(www.keepachangelog.com](https://keepachangelog.com/en/1.1.0/)
 
