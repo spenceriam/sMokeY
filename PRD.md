@@ -181,4 +181,4 @@ Documented in `FUTURE.md` - features to consider post-MVP:
 
 ---
 
-*Simple. Clean. Just like sMokeY likes it.*
+*Less is more. sMokeY is sophisticated like that."*
