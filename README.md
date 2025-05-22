@@ -1,0 +1,65 @@
+# sMokeY
+
+A simple, clean text editor for desktop.
+
+## What it is
+
+- Cross-platform text editor (Windows, Mac, Linux)
+- Minimal interface, maximum focus
+- Fast and lightweight
+- Named after a sassy munchkin cat 🐱
+
+## Tech Stack
+
+- **Electron.js** - Desktop framework
+- **CodeMirror 6** - Text editing engine
+- **Anonymous Pro** - Monospace font
+- **Node.js** - Build system
+
+## Features
+
+- Auto-save
+- Find/replace
+- Line numbers (optional)
+- Word wrap
+- Dark/light themes
+- Sliding toolbar (appears on hover)
+- Real-time file watching
+
+## Quick Start
+
+```bash
+git clone [repo-url]
+cd smokey
+npm install
+npm start
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Shortcuts
+
+- `Ctrl/Cmd + N` - New
+- `Ctrl/Cmd + O` - Open  
+- `Ctrl/Cmd + S` - Save
+- `Ctrl/Cmd + F` - Find
+- `Ctrl/Cmd + Z` - Undo
+
+## Structure
+
+```
+smokey/
+├── src/
+│   ├── main/      # Electron main process
+│   └── renderer/  # UI and editor
+├── assets/        # Fonts and icons
+└── builds/        # Output builds
+```
+
+---
+
+Simple. Clean. Just like sMokeY likes it.
