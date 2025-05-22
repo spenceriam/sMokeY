@@ -38,7 +38,7 @@ _Based on this sMokeY text editor project, create a detailed todo.md file that b
 
 ## Suggestions:
 Create a rule file or memory:
-- Manage the project using the todo and create a changelog from [(www.keepachangelog.com](https://keepachangelog.com/en/1.1.0/)
+- Manage the project using the todo and create a changelog from [www.keepachangelog.com](https://keepachangelog.com/en/1.1.0/)
 
 ## Features
 
