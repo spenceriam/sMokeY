@@ -7,8 +7,12 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Mood](https://img.shields.io/badge/Mood-Sassy-purple.svg)
 
-
+<p align="center">
+<img src="/logo.jpg" width=300>
+</p>
+<p align="center">
 A simple, clean text editor for desktop.
+</p>
 
 ## What it is
 
