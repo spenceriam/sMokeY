@@ -37,7 +37,7 @@ A simple, clean text editor for desktop.
 ## Quick Start
 
 ```bash
-git clone [repo-url]
+git clone https://github.com/spenceriam/sMokeY
 cd smokey
 npm install
 npm start
