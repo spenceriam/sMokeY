@@ -1,5 +1,11 @@
 # sMokeY
 
+![Version](https://img.shields.io/badge/version-0.0.0-blue.svg)
+![Electron](https://img.shields.io/badge/electron-latest-47848f.svg)
+![CodeMirror](https://img.shields.io/badge/codemirror-6-orange.svg)
+![Platform](https://img.shields.io/badge/platform-win%20%7C%20mac%20%7C%20linux-lightgrey.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 A simple, clean text editor for desktop.
 
 ## What it is
