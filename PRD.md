@@ -181,4 +181,4 @@ Documented in `FUTURE.md` - features to consider post-MVP:
 
 ---
 
-*Less is more. sMokeY is sophisticated like that."*
+*Less is more. sMokeY is sophisticated like that.*
