@@ -25,8 +25,16 @@ A simple, clean text editor for desktop.
 
 - **Electron.js** - Desktop framework
 - **CodeMirror 6** - Text editing engine
-- **Anonymous Pro** - Monospace font
 - **Node.js** - Build system
+
+## Prompt used
+Initial setup:
+1. Clone down this Github repo into a location on your machine
+2. With your choice of editor/IDE, open project
+3. Kick off the project by scaffolding the structure:\
+_Create a basic Electron application called 'sMokeY' with CodeMirror 6 text editor. Set up the project with proper folder structure, package.json with cross-platform build scripts, and a minimal working text editor that can open, edit, and save files. Include basic Electron security best practices and make sure it runs with 'npm start'. Keep the UI clean and minimal - just the editor for now._
+5. Start the todo.md and then vibe on:\
+_Based on this sMokeY text editor project, create a detailed todo.md file that breaks down all the remaining features into small, actionable chunks. Organize by priority and dependencies. Each task should be specific enough for AI to implement (like 'Add auto-save with 3-second interval' rather than 'Add auto-save'). Reference the PRD requirements for the complete feature list._
 
 ## Features
 
