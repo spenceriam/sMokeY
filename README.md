@@ -91,4 +91,4 @@ You should have received a copy of the GNU General Public License along with sMo
 
 ---
 
-Simple. Clean. Just like sMokeY likes it.
+*Simple. Clean. Just like sMokeY likes it.*
